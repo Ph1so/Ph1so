@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello, I'm Phi 
 
-<!--
-**Ph1so/Ph1so** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 17-year-old high school student passionate about 3D art/design on Blender, and enthusiastic about exploring various realms of coding, including machine learning, computer vision, and full-stack development.
 
-Here are some ideas to get you started:
+Check out my Blender artwork [work](https://sites.google.com/view/phinguyen/main-page)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :toolbox: Toolbox
+___
+Programming Languages: `Python` `C++` `C` `Java` `JavaScript`
+
+Libraries and Tools: `Scikit-learn` `Pandas` `Numpy` `TensorFlow` `Seaborn` `Matplotlib` 
+
+Version Control: `Git`
+
+Others: `Blender`

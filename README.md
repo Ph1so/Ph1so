@@ -1,6 +1,6 @@
 ### Hello, I'm Phi 
 
-I'm an 18-year-old high school student passionate about 3D art/design on Blender, and enthusiastic about exploring various realms of coding, including machine learning, computer vision, and full-stack development.
+I'm an 18-year-old high school student. When I'm not exploring various realms of code, like machine learning, computer vision, or full-stack development, I'm a 3D artist on Blender.
 
 Check out my Blender artwork [here](https://sites.google.com/view/phinguyen/main-page).
 
@@ -8,8 +8,8 @@ Check out my Blender artwork [here](https://sites.google.com/view/phinguyen/main
 ___
 Programming Languages: `Python` `C++` `C` `Java` `JavaScript`
 
-Libraries and Tools: `Scikit-learn` `Pandas` `Numpy` `TensorFlow` `Seaborn` `Matplotlib` 
+Libraries and Tools: `Scikit-learn` `TensorFlow` `Seaborn` `Matplotlib`  
 
 Version Control: `Git`
 
-Others: `Blender`
+Others: `Blender` `Wireshark`

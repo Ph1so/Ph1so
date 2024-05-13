@@ -6,10 +6,12 @@ Check out my Blender artwork [here](https://sites.google.com/view/phinguyen/main
 
 ### :toolbox: Toolbox
 ___
-Programming Languages: `Python` `C++` `C` `Java` `JavaScript`
+Programming Languages: `Python` `C++` `C` `Java` `JavaScript` `PHP`
+
+Technologies: `Blender` `Wireshark` `HTML` `CSS`
 
 Libraries and Tools: `Scikit-learn` `TensorFlow` `Seaborn` `Matplotlib`  
 
 Version Control: `Git`
 
-Others: `Blender` `Wireshark`
+

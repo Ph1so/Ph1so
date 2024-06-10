@@ -4,6 +4,7 @@ I'm an 18-year-old high school student. When I'm not exploring machine learning,
 
 Check out my Blender artwork [here](https://sites.google.com/view/phinguyen/main-page).
 
+If you want to read more about me check out my website [here](https://phinguyen.live/).
 ### :toolbox: Toolbox
 ___
 Programming Languages: `Python` `C++` `C` `Java` `JavaScript` `PHP`

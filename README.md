@@ -1,6 +1,6 @@
 ### Hello, I'm Phi
 
-I'm an 18-year-old high school student passionate about exploring the realms of machine learning, computer vision, and full-stack development. When I'm not diving into code, you can find me creating intricate 3D art in Blender.
+I'm an 18-year-old high school student. When I'm not exploring machine learning, computer vision, or full-stack development, I'm a 3D artist on Blender.
 
 Check out my Blender artwork [here](https://sites.google.com/view/phinguyen/main-page).
 

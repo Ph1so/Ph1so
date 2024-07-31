@@ -11,13 +11,13 @@ If you want to learn more about me, visit my website [here](https://phinguyen.li
 ___
 
 **Programming Languages:**  
-`Python` `C++` `C` `Java` `JavaScript` `PHP`
+`Python` `C++` `C` `Java` `JavaScript` `PHP` `HTML/CSS`
 
 **Technologies:**  
-`Blender` `Wireshark` `HTML` `CSS` `React`
+`Blender` `Wireshark` `Scikit-learn` `TensorFlow` `Seaborn` `Matplotlib`
 
-**Libraries and Tools:**  
-`Scikit-learn` `TensorFlow` `Seaborn` `Matplotlib`
+**Frameworks:**  
+`React` 
 
 **Version Control:**  
 `Git`

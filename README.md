@@ -17,7 +17,7 @@ ___
 `Blender` `Wireshark` `Scikit-learn` `TensorFlow` `Seaborn` `Matplotlib`
 
 **Frameworks:**  
-`React` 
+`React` `Node` `Next` `Material UI`
 
 **Version Control:**  
 `Git`
